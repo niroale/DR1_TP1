@@ -36,3 +36,12 @@ Selecionar nome da variável e digitar (SEM AS ASPAS): "CLASSPATH";<br/>
 Em "VALOR DA VARIÁVEL" e digitar (SEM AS ASPAS): "%JAVA_HOME%;.";<br/>
 Clicar em OK;<br/>
 
+###### 4. Verificaçaõ das Variáveis
+Digitar CMD no seu espaço de busca do Windows;<br/>
+Abrir o Prompt de Comando;<br/>
+Digitar (SEM AS ASPAS): "javac";<br/>
+Verificar informações do JAVA que foi instalado;<br/>
+Digitar (SEM AS ASPAS): "java -version";<br/>
+Verificar a versão do JAVA que foi instalado;<br/>
+
+# Testes
