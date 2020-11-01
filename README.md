@@ -21,10 +21,18 @@ Na tela das variáveis, abrir janela com dois espaços separados, o primeiro ser
 Selecionar as variáveis do sistema;<br/>
 Selecionar "PATH" na primeira coluna e clicar em "EDITAR";<br/>
 Na tela "EDITAR VARIÁVEIS DO SISTEMA", clicar em "NOVO" e digitar o comando (SEM AS ASPAS): "path=%JAVA_HOME%\bin";<br/>
-Clicar em OK;
+Clicar em OK;<br/>
 
 ###### 2. Criar Variável
-Vamos criar uma nova variável, lembre-se que estamos trabalhando com o segundo espaço referente as variáveis do sistema.
-a. Clique em "Novo".
-b. Configure da seguinte forma: em nome da variável, digite (sem aspas): "JAVA_HOME".
-c. Em "Valor da variável", vocês devem colocar o DIRETÓRIO DO JDK, como informei anteriormente para anotar.Clique em "OK".
+Selecionar as variáveis do sistema;<br/>
+Clicar em "NOVO";<br/>
+Selecionar nome da variável e digitar (SEM AS ASPAS): "JAVA_HOME";<br/>
+Em "VALOR DA VARIÁVEL", selecionar o Diretório onde o JDK foi instalado;<br/>
+Clicar em OK;<br/>
+
+###### 3. Criar Variável
+Clicar em "NOVO";<br/>
+Selecionar nome da variável e digitar (SEM AS ASPAS): "CLASSPATH";<br/>
+Em "VALOR DA VARIÁVEL" e digitar (SEM AS ASPAS): "%JAVA_HOME%;.";<br/>
+Clicar em OK;<br/>
+
