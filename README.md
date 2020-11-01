@@ -45,3 +45,9 @@ Digitar (SEM AS ASPAS): "java -version";<br/>
 Verificar a versão do JAVA que foi instalado;<br/>
 
 # Testes
+## Cenário 01 - cadastro de alunos 
+
+###### 1. Acessar o Apache ;
+###### 2. Selecionar "Run Project";
+###### 3. No menu, digitar a opção [1];
+
