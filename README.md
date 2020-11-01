@@ -46,6 +46,14 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 # Testes
 ## Cenário 01 - cadastro de alunos 
+###### 1. Acessar o Apache ;
+###### 2. Selecionar "Run Project";
+###### 3. O menu será exibido;
+###### 4. No menu, digitar a opção [ 1 ];
+###### 5. Em seguida, informar o nome do aluno, sua nota na AV01 E AV02;
+###### 6. Ao final, o MENU será exibido novamente.
+
+###### Conformidade esperada: Nenhum retorno de erro.
 
 ###### 1. Acessar o Apache ;
 ###### 2. Selecionar "Run Project";
@@ -61,7 +69,7 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 ![image](https://user-images.githubusercontent.com/37251600/97817522-b77e6080-1c7b-11eb-9b6c-7729bf9d3f05.png)
 
-###### 6. Ao final, o MENU será exibido novamente;
+###### 6. Ao final, o MENU será exibido novamente.
 
-
+![image](https://user-images.githubusercontent.com/37251600/97817584-0af0ae80-1c7c-11eb-98ab-24dcff6d5ce9.png)
 
