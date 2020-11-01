@@ -90,6 +90,8 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 ###### 5. Em seguida, informar o ID de um aluno;
 
-![image](https://user-images.githubusercontent.com/37251600/97817981-6de34500-1c7e-11eb-8c8b-4bfdf0aba2c1.png)
+![image](https://user-images.githubusercontent.com/37251600/97818013-a7b44b80-1c7e-11eb-8b6d-434f6e43b658.png)
 
 ###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a Situação do aluno.
+
+![image](https://user-images.githubusercontent.com/37251600/97817981-6de34500-1c7e-11eb-8c8b-4bfdf0aba2c1.png)
