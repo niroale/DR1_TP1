@@ -103,8 +103,9 @@ Verificar a versão do JAVA que foi instalado;<br/>
 ###### 2. Selecionar "Run Project";
 ###### 3. O menu será exibido;
 ###### 4. No menu, digitar a opção [ 3 ];
-###### 5. Em seguida, informar o ID de um aluno;
-###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a situação do aluno.
+###### 5. Em seguida, informar o ID de um aluno.
+
+###### --> Conformidade esperada: Exibição das informações de todos os alunos cadastrados e nenhum retorno de erro. <--
 
 ###### 1. Acessar o Apache;
 ###### 2. Selecionar "Run Project";
@@ -113,6 +114,27 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 ![image](https://user-images.githubusercontent.com/37251600/97818368-c7e50a00-1c80-11eb-84f9-2a215e7486e4.png)
 
-###### 5. Em seguida, informar o ID de um aluno;
-###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a situação do aluno.
+###### 5. Em seguida, será informado os nomes dos alunos, as notas da AV01, AV02, a média e a situações dos alunos.
 
+![image](https://user-images.githubusercontent.com/37251600/97818404-01b61080-1c81-11eb-88a0-9c3721bd75f6.png)
+
+
+## Cenário 04 - Consultar notas da turma
+###### 1. Acessar o Apache;
+###### 2. Selecionar "Run Project";
+###### 3. O menu será exibido;
+###### 4. No menu, digitar a opção [ 4 ];
+###### 5. Em seguida, o sistema retornará uma mensagem de sucesso;
+
+###### --> Conformidade esperada: Exibição da mensagem "Sistema finalizado com sucesso!" e nenhum retorno de erro. <--
+
+###### 1. Acessar o Apache;
+###### 2. Selecionar "Run Project";
+###### 3. O menu será exibido;
+###### 4. No menu, digitar a opção [ 4 ];
+
+![image](https://user-images.githubusercontent.com/37251600/97818465-56598b80-1c81-11eb-9d27-27b870c8cf75.png)
+
+###### 5. Em seguida, o sistema retornará uma mensagem de sucesso;
+
+![image](https://user-images.githubusercontent.com/37251600/97818520-96b90980-1c81-11eb-850d-ab38b4e96f4e.png)
