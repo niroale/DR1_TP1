@@ -45,7 +45,7 @@ Digitar (SEM AS ASPAS): "java -version";<br/>
 Verificar a versão do JAVA que foi instalado;<br/>
 
 # Testes
-## Cenário 01 - cadastro de alunos 
+## Cenário 01 - Cadastro de alunos 
 ###### 1. Acessar o Apache ;
 ###### 2. Selecionar "Run Project";
 ###### 3. O menu será exibido;
@@ -73,3 +73,23 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 ![image](https://user-images.githubusercontent.com/37251600/97817584-0af0ae80-1c7c-11eb-98ab-24dcff6d5ce9.png)
 
+
+## Cenário 02 - Consultar Boletim de um aluno
+###### 1. Acessar o Apache ;
+###### 2. Selecionar "Run Project";
+###### 3. O menu será exibido;
+###### 4. No menu, digitar a opção [ 2 ];
+###### 5. Em seguida, informar o ID de um aluno;
+###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a situação do aluno.
+
+![image](https://user-images.githubusercontent.com/37251600/97817408-1099c480-1c7b-11eb-9501-c1ad4beda061.png)
+
+###### 4. No menu, digitar a opção [ 2 ];
+
+![image](https://user-images.githubusercontent.com/37251600/97817948-32e11180-1c7e-11eb-9495-62f7ea916b33.png)
+
+###### 5. Em seguida, informar o ID de um aluno;
+
+![image](https://user-images.githubusercontent.com/37251600/97817981-6de34500-1c7e-11eb-8c8b-4bfdf0aba2c1.png)
+
+###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a Situação do aluno.
