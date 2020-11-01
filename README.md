@@ -49,11 +49,19 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 ###### 1. Acessar o Apache ;
 ###### 2. Selecionar "Run Project";
-###### 3. No menu, digitar a opção [ 1 ];
+###### 3. O menu será exibido;
 
 ![image](https://user-images.githubusercontent.com/37251600/97817408-1099c480-1c7b-11eb-9501-c1ad4beda061.png)
 
+###### 4. No menu, digitar a opção [ 1 ];
+
 ![image](https://user-images.githubusercontent.com/37251600/97817426-358e3780-1c7b-11eb-9390-9da155b63c24.png)
+
+###### 5. Em seguida, informar o nome do aluno, sua nota na AV01 E AV02;
+
+![image](https://user-images.githubusercontent.com/37251600/97817522-b77e6080-1c7b-11eb-9b6c-7729bf9d3f05.png)
+
+###### 6. Ao final, o MENU será exibido novamente;
 
 
 
