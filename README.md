@@ -82,6 +82,8 @@ Verificar a versão do JAVA que foi instalado;<br/>
 ###### 5. Em seguida, informar o ID de um aluno;
 ###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a situação do aluno.
 
+###### --> Conformidade esperada: Exibição das informações do aluno e nenhum retorno de erro. <--
+
 ![image](https://user-images.githubusercontent.com/37251600/97817408-1099c480-1c7b-11eb-9501-c1ad4beda061.png)
 
 ###### 4. No menu, digitar a opção [ 2 ];
