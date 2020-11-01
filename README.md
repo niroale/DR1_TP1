@@ -53,7 +53,7 @@ Verificar a versão do JAVA que foi instalado;<br/>
 ###### 5. Em seguida, informar o nome do aluno, sua nota na AV01 E AV02;
 ###### 6. Ao final, o MENU será exibido novamente.
 
-###### Conformidade esperada: Nenhum retorno de erro.
+###### **Conformidade esperada:** Nenhum retorno de erro.
 
 ###### 1. Acessar o Apache ;
 ###### 2. Selecionar "Run Project";
