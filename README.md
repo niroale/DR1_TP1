@@ -75,7 +75,7 @@ Verificar a versão do JAVA que foi instalado;<br/>
 
 
 ## Cenário 02 - Consultar Boletim de um aluno
-###### 1. Acessar o Apache ;
+###### 1. Acessar o Apache;
 ###### 2. Selecionar "Run Project";
 ###### 3. O menu será exibido;
 ###### 4. No menu, digitar a opção [ 2 ];
@@ -97,3 +97,22 @@ Verificar a versão do JAVA que foi instalado;<br/>
 ###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a Situação do aluno.
 
 ![image](https://user-images.githubusercontent.com/37251600/97817981-6de34500-1c7e-11eb-8c8b-4bfdf0aba2c1.png)
+
+## Cenário 03 - Consultar notas da turma
+###### 1. Acessar o Apache;
+###### 2. Selecionar "Run Project";
+###### 3. O menu será exibido;
+###### 4. No menu, digitar a opção [ 3 ];
+###### 5. Em seguida, informar o ID de um aluno;
+###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a situação do aluno.
+
+###### 1. Acessar o Apache;
+###### 2. Selecionar "Run Project";
+###### 3. O menu será exibido;
+###### 4. No menu, digitar a opção [ 3 ];
+
+![image](https://user-images.githubusercontent.com/37251600/97818368-c7e50a00-1c80-11eb-84f9-2a215e7486e4.png)
+
+###### 5. Em seguida, informar o ID de um aluno;
+###### 6. Ao final, será informado o nome do aluno, as notas da AV01, AV02, a média e a situação do aluno.
+
